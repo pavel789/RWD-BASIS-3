@@ -1,0 +1,6 @@
+col-xs-1-12
+col-sm-1-12
+col-md-1-12
+col-lg-1-12
+
+www.getbootstrap.com/css
